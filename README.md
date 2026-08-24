@@ -1,2 +1,2 @@
 # Tugas git kolaborasi
-project kolaborasi git & github
+project dibuat oleh siswa A
